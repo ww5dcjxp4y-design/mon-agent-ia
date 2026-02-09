@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1770629149835,
+      "tag": "0000_deep_moonstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1770629257655,
+      "tag": "0001_adorable_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1770635086651,
+      "tag": "0002_bouncy_yellow_claw",
+      "breakpoints": true
+    }
+  ]
+}
